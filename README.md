@@ -1,2 +1,4 @@
 # secure-platform-engineering
-Lab of all the projects I'm working with
+Platform security engineering lab exploring BootC image-mode systems,
+TPM-backed trusted boot chains, Secure Boot key management,
+and OpenShift platform automation.
